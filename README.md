@@ -1,10 +1,9 @@
-## João Guilherme (*JaaumG*)
-Hi everyone, my name is João Guilherme, i'm 20 years old, Computer Engineering student on Uniara (University of Araraquara), Araraquara - São Paulo, Brazil.
+ ## João Guilherme (*JaaumG*)
+   Hi everyone, my name is João Guilherme, i'm 20 years old, Computer Engineering student on Uniara (University of Araraquara), Araraquara - São Paulo, Brazil.
 
  I'm living on São Carlos, São Paulo,i work on *"Sasso Garcia  & Albuquerque Advogados"* and *"Ribeiro dos Santos Advogados Associados"*  as an IT Technician.
- 
  ## Work and Knowledge
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
