@@ -1,7 +1,7 @@
 ## João Guilherme (*JaaumG*)
 Hi everyone, my name is João Guilherme, i'm 20 years old, Computer Engineering student on Uniara (University of Araraquara), Araraquara - São Paulo, Brazil.
 
- I'm living on São Carlos, São Paulo, work on *"Sasso Garcia  & Albuquerque Advogados"* and *"Ribeiro dos Santos Advogados Associados"*  as an IT Technician.
+ I'm living on São Carlos, São Paulo,i work on *"Sasso Garcia  & Albuquerque Advogados"* and *"Ribeiro dos Santos Advogados Associados"*  as an IT Technician.
  
  ## Work and Knowledge
  I'm currently working on desktop based application to help attorney offices to handle more easily administration questions, such as client control, financial spends, documents control and organization, and on another desktop based application to help therapists to organize its agenda both in java.
