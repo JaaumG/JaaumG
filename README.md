@@ -14,6 +14,9 @@
  
 I'm currently learning by myself and from some classes, Python, CSS, C, Java, *(which by the way, its my favourite)*. And pretend to learn as well, HTML, JavaScript, C#, C++ Flutter and/or React.
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=JaaumG&show_icons=true&theme=dark)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JaaumG&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaaumG&show_icons=true&theme=dark" />
+</a><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaaumG&layout=compact&theme=dark" />
+</a>
 
