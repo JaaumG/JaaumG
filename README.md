@@ -26,7 +26,7 @@ I'm currently learning by myself and from some classes, Python, CSS, C, C++, Jav
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=JaaumG&count_private=true&show_icons=true&theme=dark" />
 </a><a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaaumG&count_private=true&langs_count=10&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaaumG&count_private=false&langs_count=10&theme=dark" />
 </a>
 
 ## My Contact
