@@ -20,9 +20,9 @@
 I'm currently learning by myself and from some classes, Python, CSS, C, C++, Java, *(which by the way, its my favourite)*, MySQL, Arduino, Apache, Git, AndroidStudio. And intend to learn as well, HTML, JavaScript, C#, Flutter and React.
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaaumG&show_icons=true&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JaaumG&show_icons=true&theme=dark" />
 </a><a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaaumG&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaaumG&langs_count=10&theme=dark" />
 </a>
 
 ## My Contact
