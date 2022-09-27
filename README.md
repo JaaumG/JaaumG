@@ -1,5 +1,5 @@
  ## João Guilherme (*JaaumG*)
-   Hi everyone, my name is João Guilherme, i'm 20 years old, Computer Engineering student on Uniara (University of Araraquara), Araraquara - São Paulo, Brazil.
+   Hi everyone, my name is João Guilherme, i'm 20 years old, <a href="https://www.uniara.com.br/cursos/presencial/graduacao/engenharia-de-computacao/">Computer Engineering student on Uniara (University of Araraquara)<a/>, Araraquara - São Paulo, Brazil.
 
  I'm living on São Carlos, São Paulo,i work on *"Sasso Garcia  & Albuquerque Advogados"* and *"Ribeiro dos Santos Advogados Associados"*  as an IT Technician.
  ## Work and Knowledge
@@ -20,9 +20,9 @@
 I'm currently learning by myself and from some classes, Python, CSS, C, C++, Java, *(which by the way, its my favourite)*, MySQL, Arduino, Apache, Git, AndroidStudio. And intend to learn as well, HTML, JavaScript, C#, Flutter and React.
 
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JaaumG&show_icons=true&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JaaumG&count_private=true&show_icons=true&theme=dark" />
 </a><a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaaumG&langs_count=10&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaaumG&count_private=true&langs_count=10&theme=dark" />
 </a>
 
 ## My Contact
