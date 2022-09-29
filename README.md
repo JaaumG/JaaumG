@@ -23,11 +23,12 @@
  
 I'm currently learning by myself and from some classes, Python, CSS, C, C++, Java, *(which by the way, its my favourite)*, MySQL, Arduino, Apache, Git, AndroidStudio, HTML, JavaScript. And intend to learn as well, C#, Flutter and React.
 
-<a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JaaumG&count_private=true&show_icons=true&theme=dark" />
-</a><a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaaumG&count_private=false&layout=compact&langs_count=10&theme=dark" />
-</a>
+<div align="center">
+ <a>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaaumG&count_private=true&show_icons=true&theme=dark" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaaumG&count_private=false&layout=compact&langs_count=10&theme=dark" />
+ </a>
+</div>
 
 ## My Contact
 <p align="center">
