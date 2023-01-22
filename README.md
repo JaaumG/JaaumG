@@ -29,8 +29,8 @@ I recently started learning TypeScript and PHP, as well as learning more and mor
 
 <div align="center">
  <a href="https://github.com/JaaumG">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaaumG&count_private=true&show_icons=true&theme=dark" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaaumG&count_private=false&layout=compact&langs_count=10&theme=dark" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaaumG&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JaaumG&layout=compact&langs_count=10&theme=github_dark" />
  </a>
 </div>
 
