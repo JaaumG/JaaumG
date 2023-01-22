@@ -1,7 +1,7 @@
  ## João Guilherme (*JaaumG*)
    Hi everyone, my name is João Guilherme, i'm 21 years old, <a href="https://www.uniara.com.br/cursos/presencial/graduacao/engenharia-de-computacao/">Computer Engineering student on Uniara (University of Araraquara)<a/>, Araraquara - São Paulo, Brazil.
 
- I'm living on São Carlos, São Paulo, i work on *"Elaine Albuquerque Advogados"* and *"Ribeiro dos Santos Advogados Associados"*  as an IT Technician.
+ I'm living on São Carlos, São Paulo, and i work on <a href="motusmarketing.com.br">*"Motus Marketing"*</a> as Junior  full-stack developer, and *"Elaine Albuquerque Advogados"* and *"Ribeiro dos Santos Advogados Associados"*  as an IT Technician.
  ## Work and Knowledge
 <div align="center">
   <a href="https://github.com/JaaumG?tab=repositories&q=&type=&language=java&sort="><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</a>
@@ -22,9 +22,10 @@
   <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub"  alt="GitHub" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/></a>
 </div>
- I'm currently working on desktop based application to help attorney offices to handle more easily administration questions, such as client control, financial spends, documents control and organization, and on another desktop based application to help therapists to organize its agenda both in java.
  
-I'm currently learning by myself and from some classes, Python, CSS, C, C++, Java, *(which by the way, its my favourite)*, MySQL, Arduino, Apache, Git, AndroidStudio, HTML, JavaScript. And intend to learn as well, C#, Flutter and React.
+I'm currently working on a restful API made with spring for Motus Marketing, this project aims to be the central base of the entire company, using a database to store essential information for its operation, in addition to a security system with spring security, dashboard with thymeleaf, hosted on AWS, and integrated with Stripe payment system.
+ 
+I recently started learning TypeScript and PHP, as well as learning more and more about Java, JavaScript, HTML and CSS.
 
 <div align="center">
  <a href="https://github.com/JaaumG">
