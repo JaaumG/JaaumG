@@ -11,6 +11,7 @@
    <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++"  alt="C++" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG?tab=repositories&q=&type=&language=html&sort="><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="40" height="40"/>&nbsp;</a>
+  <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="BootStrap"  alt="BootStrap" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript"  alt="JavaScript" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;</a>
@@ -19,6 +20,7 @@
   <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache"  alt="Apache" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud"  alt="Google Cloud" width="40" height="40"/>&nbsp;</a>
+ <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="Amazon Web Service"  alt="Amazon Web Service" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub"  alt="GitHub" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/></a>
 </div>
