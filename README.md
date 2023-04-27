@@ -32,7 +32,7 @@ I recently started learning TypeScript and PHP, as well as deepening my knowledg
 <div align="center">
  <a href="https://github.com/JaaumG">
    <img height="180em" src="https://raw.githubusercontent.com/JaaumG/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
-   <img height="180em" src="https://raw.githubusercontent.com/JaaumG/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
+   <img height="180em" src="https://raw.githubusercontent.com/JaaumG/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
  </a>
 </div>
 
