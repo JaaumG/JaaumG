@@ -31,9 +31,8 @@ I recently started learning TypeScript and PHP, as well as deepening my knowledg
 
 <div align="center">
  <a href="https://github.com/JaaumG">
-  
-   ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-   ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+   <img height="180em" src="https://raw.githubusercontent.com/JaaumG/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+   <img height="180em" src="https://raw.githubusercontent.com/JaaumG/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
  </a>
 </div>
 
@@ -45,5 +44,3 @@ I recently started learning TypeScript and PHP, as well as deepening my knowledg
 <a href="https://discordapp.com/users/295352470702653453" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
 <a href="mailto:mail@joaoguilherme.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" alt="" height="30" width="40" /></a>
 </p>
-
-
