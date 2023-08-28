@@ -1,7 +1,7 @@
  ## João Guilherme (*JaaumG*)
    Hi everyone! My name is João Guilherme. I'm 21 years old and a <a href="https://www.uniara.com.br/cursos/presencial/graduacao/engenharia-de-computacao/">Computer Engineering student at Uniara (University of Araraquara)<a/> in Araraquara, São Paulo, Brazil.
 
- I currently live in São Carlos, São Paulo, and I work at <a href="https://www.motusmarketing.com.br">*"Motus Marketing"*</a> as a Junior Full-Stack Developer, and at "Elaine Albuquerque Advogados" and "Ribeiro dos Santos Advogados Associados" as an IT Technician.
+ I currently live in São Carlos, São Paulo, and I work at <a href="https://www.motusmarketing.com.br">*"Motus Marketing"*</a> as a Full-Stack Developer.
  ## Work and Knowledge
 <div align="center">
   <a href="https://github.com/JaaumG?tab=repositories&q=&type=&language=java&sort="><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</a>
@@ -24,10 +24,6 @@
   <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub"  alt="GitHub" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/></a>
 </div>
- 
-I'm currently working on a RESTful API made with Spring for Motus Marketing. This project aims to be the central base of the entire company, using a database to store essential information for its operation. It also includes a security system with Spring Security, a dashboard with Thymeleaf, hosting on AWS, and integration with the Stripe payment system.
- 
-I recently started learning TypeScript and PHP, as well as deepening my knowledge in Java, JavaScript, HTML, and CSS.
 
 <div align="center">
  <a href="https://github.com/JaaumG">
