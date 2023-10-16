@@ -1,7 +1,7 @@
  ## João Guilherme (*JaaumG*)
    Hi everyone! My name is João Guilherme. I'm 21 years old and a <a href="https://www.uniara.com.br/cursos/presencial/graduacao/engenharia-de-computacao/">Computer Engineering student at Uniara (University of Araraquara)<a/> in Araraquara, São Paulo, Brazil.
 
- I currently live in São Carlos, São Paulo, and I work at <a href="https://www.motusmarketing.com.br">*"Motus Marketing"*</a> as a Full-Stack Developer.
+ I currently live in São Carlos, São Paulo, and I work at <a href="https://castgroup.com.br">*"Cast Group"*</a> as Junior System Analyst.
  ## Work and Knowledge
 <div align="center">
   <a href="https://github.com/JaaumG?tab=repositories&q=&type=&language=java&sort="><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</a>
