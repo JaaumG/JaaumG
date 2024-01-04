@@ -28,6 +28,7 @@
   <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;</a>
+  <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;</a>
 </div>
 
 
@@ -39,14 +40,20 @@
 </div>
 <div align="center">
   <a href="https://github.com/JaaumG?tab=repositories&q=&type=&language=java&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;</a>
-  <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="BootStrap"  alt="BootStrap" width="40" height="40"/>&nbsp;</a>
+  <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&nbsp;</a>
+  <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tail Wind"  alt="Tail Wind" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;</a>
+  <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache"  alt="Apache" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud"  alt="Google Cloud" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="Amazon Web Service"  alt="Amazon Web Service" width="40" height="40"/>&nbsp;</a>
-  <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub"  alt="GitHub" width="40" height="40"/>&nbsp;</a>
-  <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"  alt="GitHub" width="40" height="40"/>&nbsp;</a>
+  <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab"  alt="GitLab" width="40" height="40"/>&nbsp;</a>
+  <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/></a>
+  <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/></a>
+  <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" title="Jetbrains IDEs" alt="Jetbrains IDEs" width="40" height="40"/></a>
 </div>
 
 <div align="center">
@@ -59,6 +66,9 @@
    <img style="max-width: 100%;" src="https://raw.githubusercontent.com/JaaumG/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
    <img style="max-width: 100%;" src="https://raw.githubusercontent.com/JaaumG/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
  </a>
+
+
+   [![joao guilherme's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JaaumG&theme=github-compact&area=true&hide_border=true&hide_title=true)](https://github.com/JaaumG/)
 </div>
 
 <div align="center">
