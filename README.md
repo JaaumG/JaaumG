@@ -63,8 +63,12 @@
 </div>
 <div align="center">
  <a href="https://github.com/JaaumG">
-   <img style="max-width: 100%;" src="https://raw.githubusercontent.com/JaaumG/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
    <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=JaaumG&layout=compact&langs_count=10&theme=github_dark"/>
+ </a>
+<div align="center">
+ <a href="https://github.com/JaaumG">
+   <img style="max-width: 100%;" src="https://raw.githubusercontent.com/JaaumG/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+   
    <img style="max-width: 100%;" src="https://raw.githubusercontent.com/JaaumG/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
  </a>
    
