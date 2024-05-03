@@ -40,6 +40,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/JaaumG?tab=repositories&q=&type=&language=java&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;</a>
+  <a href="https://github.com/JaaumG?tab=repositories&q=&type=&language=java&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" title="Quarkus" alt="Quarkus" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG?tab=repositories&q=&type=&language=java&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" title="Hibernate" alt="Hibernate" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tail Wind"  alt="Tail Wind" width="40" height="40"/>&nbsp;</a>
