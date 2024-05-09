@@ -20,6 +20,7 @@
 <div align="center">
   <a href="https://github.com/JaaumG?tab=repositories&q=&type=&language=java&sort="><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG?tab=repositories&q=&type=&language=python&sort="><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;</a>
+  <a href="https://github.com/JaaumG?tab=repositories&q=&type=&language=dart&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG?tab=repositories&q=&type=&language=c&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG?tab=repositories&q=&type=&language=html&sort="><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="40" height="40"/>&nbsp;</a>
@@ -42,6 +43,7 @@
   <a href="https://github.com/JaaumG?tab=repositories&q=&type=&language=java&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG?tab=repositories&q=&type=&language=java&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" title="Quarkus" alt="Quarkus" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG?tab=repositories&q=&type=&language=java&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" title="Hibernate" alt="Hibernate" width="40" height="40"/>&nbsp;</a>
+  <a href="https://github.com/JaaumG?tab=repositories&q=&type=&language=dart&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tail Wind"  alt="Tail Wind" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;</a>
