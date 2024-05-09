@@ -14,7 +14,7 @@
 </div>
 <div align="center">
  
-### Programming Languages & Technologies
+### Programming Languages
  
 </div>
 <div align="center">
@@ -29,41 +29,45 @@
   <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;</a>
-  <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;</a>
 </div>
 
 
 
 <div align="center">
  
-### Frameworks & Tools
+### Frameworks
 
 </div>
 <div align="center">
   <a href="https://github.com/JaaumG?tab=repositories&q=&type=&language=java&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG?tab=repositories&q=&type=&language=java&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" title="Quarkus" alt="Quarkus" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG?tab=repositories&q=&type=&language=java&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" title="Hibernate" alt="Hibernate" width="40" height="40"/>&nbsp;</a>
+  <a href="https://github.com/JaaumG?tab=repositories&q=&type=&language=java&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" title="JUnit"  alt="JUnit" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG?tab=repositories&q=&type=&language=dart&sort="><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="Tail Wind"  alt="Tail Wind" width="40" height="40"/>&nbsp;</a>
-  <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;</a>
+</div>
+
+<div align="center">
+
+### Tools
+
+</div>
+<div align="center">
   <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle"  alt="Oracle" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache"  alt="Apache" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud"  alt="Google Cloud" width="40" height="40"/>&nbsp;</a>
+  <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" title="Firebase"  alt="Firebase" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Service"  alt="Amazon Web Service" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"  alt="GitHub" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab"  alt="GitLab" width="40" height="40"/>&nbsp;</a>
   <a href="https://github.com/JaaumG"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/></a>
   <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/></a>
-  <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/></a>
-  <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="40" height="40"/></a>
-  <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" title="DataGrip" alt="DataGrip" width="40" height="40"/></a>
-  <a href="https://github.com/JaaumG"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" title="CLion" alt="Clion" width="40" height="40"/></a>
 </div>
 
 <div align="center">
- 
+
 ## GitHub Stats
 
 </div>
