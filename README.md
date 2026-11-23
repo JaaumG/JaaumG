@@ -19,9 +19,9 @@ I work mainly with **software development**, with a strong focus on backend syst
  </a>
 <div align="center">
  <a href="https://github.com/JaaumG">
-   <img style="max-width: 100%;" src="https://raw.githubusercontent.com/JaaumG/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+   <img style="max-width: 100%;" src="https://github.com/JaaumG/github-stats/blob/generated/overview.svg#gh-dark-mode-only"/>
    
-   <img style="max-width: 100%;" src="https://raw.githubusercontent.com/JaaumG/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+   <img style="max-width: 100%;" src="https://github.com/JaaumG/github-stats/blob/generated/languages.svg#gh-dark-mode-only"/>
  </a>
    
    [![joao guilherme's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JaaumG&theme=github-compact&area=true&hide_border=true&hide_title=true)](https://github.com/JaaumG/)
